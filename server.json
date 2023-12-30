@@ -1,0 +1,12 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "conteudoDePost": "Conteudo do post1"
+      },
+      {
+        "id": 2,
+        "conteudoDePost": "Conteudo do post2"
+      }
+    ]
+  }
